@@ -20,6 +20,9 @@
             android:name=".TripDetailActivity2"
             android:exported="false" />
         <activity
+            android:name=".TripDetailActivity3"
+            android:exported="false" />
+        <activity
             android:name=".ExploreActivity2"
             android:exported="false" />
         <activity
