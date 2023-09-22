@@ -5,6 +5,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.List;
@@ -39,6 +40,18 @@ public class TripDetailActivity3 extends AppCompatActivity {
         nextButton.setOnClickListener(v -> {
 //            finish();
             Intent intent = new Intent(this, TripActivity2.class);
+            intent.putExtra("trip", trip);
+            intent.putExtra("day", day);
+            intent.putExtra("time1", time1);
+            intent.putExtra("place1", place1);
+            intent.putExtra("time2", time2);
+            intent.putExtra("place2", place2);
+            EditText editText = findViewById(R.id.editTextTime3);
+            String time3 = editText.getText().toString();
+            EditText editText2 = findViewById(R.id.place1);
+            String place3 = editText2.getText().toString();
+            intent.putExtra("time3", time3);
+            intent.putExtra("place3", place3);
             startActivity(intent);
 
         });
