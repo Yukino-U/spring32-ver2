@@ -18,6 +18,9 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2693069458007813" />
         <entry key="app/src/main/res/layout/activity_trip.xml" value="0.32442138229591266" />
         <entry key="app/src/main/res/layout/activity_trip2.xml" value="0.3935406449912251" />
+        <entry key="app/src/main/res/layout/activity_trip_detail3.xml" value="0.29542388916015627" />
+        <entry key="app/src/main/res/layout/buttun.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/fragment_diary.xml" value="0.2453125" />
       </map>
     </option>
   </component>
