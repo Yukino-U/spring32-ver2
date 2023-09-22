@@ -4,4 +4,26 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="departure_time">0:00</string>
     <string name="trip_place">here</string>
+    <string name="explore">探検</string>
+    <string name="trip">旅行</string>
+    <string name="diary">日記</string>
+    <string name="textview">TextView</string>
+    <string name="日程">日にち</string>
+    <string name="textview1">TextView</string>
+    <string name="場所">行き先</string>
+    <string name="保存する">保存する</string>
+    <string name="いってみよう">いってみよう！</string>
+    <string name="いち">① 嵐山　竹林</string>
+    <string name="に">②金閣寺</string>
+    <string name="さん">③銀閣寺</string>
+    <string name="textview２">TextView</string>
+    <string name="人数">人数</string>
+    <string name="textview３">TextView</string>
+    <string name="車の有無">車はある？</string>
+    <string name="textview４">TextView</string>
+    <string name="目的">目的</string>
+    <string name="textview５">TextView</string>
+    <string name="友達家族い">友達or家族</string>
+    <string name="旅行プラン">かくにんがめん</string>
+    <string name="保存">ほぞんする</string>
 </resources>
