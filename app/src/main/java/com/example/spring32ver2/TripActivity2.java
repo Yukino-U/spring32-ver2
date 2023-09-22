@@ -30,8 +30,7 @@ public class TripActivity2 extends AppCompatActivity {
         Log.d("place3", place3);
         TextView textView = findViewById(R.id.textView8);
         textView.setText(String.valueOf(day)+"日");
-        TextView textView2 = findViewById(R.id.textView18);
-        textView2.setText(trip);
+        //
         TextView textView3 = findViewById(R.id.textView20);
         textView3.setText(time1+"  "+place1);
         TextView textView4 = findViewById(R.id.textView21);
